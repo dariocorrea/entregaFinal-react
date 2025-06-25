@@ -5,7 +5,7 @@ import Main from '../components/Main'
 import Footer from '../components/Footer'
 import Cart from '../components/Cart'
 import '../components/styles/CustomStyles.css'
-import loading from '../assets/images/banner/loading.gif'
+import loading from "/images/banner/loading.gif"
 import ProductList from '../components/ProductList'
 import { CartContext } from '../context/CartContext'
 

@@ -5,7 +5,7 @@ const Main = () => {
     return (
         <main>
             <div className='row'>
-                <img className="banner" src="src/assets/images/banner/banner.jpg" alt="src/assets/images/banner/banner.jpg" />
+                <img className="banner" src="/images/banner/banner.jpg" alt="/images/banner/banner.jpg" />
             </div>
         </main>
     )
