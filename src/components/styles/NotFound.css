@@ -1,0 +1,28 @@
+.notFound {
+    background: url("/src/assets/images/banner/notfound.jpg"), #000;
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+}
+
+.notFound h2 {
+  font-size: 3rem;
+  color: #000;
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 380px;
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 550px;
+}
+
+.home a {
+  font-size: 2em;
+  color: #000;
+}
