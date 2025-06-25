@@ -1,5 +1,5 @@
 .notFound {
-    background: url("/src/assets/images/banner/notfound.jpg"), #000;
+    background: url("/images/banner/notfound.jpg"), #000;
     background-position: center;
     background-size: cover;
     height: 550px;

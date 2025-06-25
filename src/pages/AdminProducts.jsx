@@ -3,7 +3,7 @@ import Header from '../components/Header'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 import AdminProductList from '../components/AdminProductList'
-import loading from '../assets/images/banner/loading.gif'
+import loading from '/images/banner/loading.gif'
 import { CartContext } from '../context/CartContext'
 
 const AdminProducts = () => {
